@@ -1,0 +1,11 @@
+1. initialize package.json
+npm init
+2.install express body-parse morgan
+npm install express body-parser morgan --save
+3. mongo database
+npm install mongoose
+4. create new database in mongolab
+5. install hashing password
+npm install bcrypt-nodejs --save
+6. install socket.io for real-time
+npm install socket.io --save
